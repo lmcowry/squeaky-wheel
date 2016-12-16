@@ -13,6 +13,7 @@ from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 
 CONIFG_FILENAME = "config.json"
 
+#christianlowry
 
 class DriverType(Enum):
     driver = 0
